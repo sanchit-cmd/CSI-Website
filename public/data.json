@@ -1,0 +1,190 @@
+{
+	"data": [
+		{
+			"id": "1",
+			"title": " Ekansh Srivastava",
+			"subtitle": "President",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "2",
+			"title": "Siddhant Srivastava",
+			"subtitle": "Vice President",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "3",
+			"title": "Kshitij Bhushan",
+			"subtitle": " Executive",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "4",
+			"title": "Trupti Sonagara",
+			"subtitle": " Executive",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "5",
+			"title": "Navya Srivastava",
+			"subtitle": "Technical Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "6",
+			"title": "Garima Bhandari",
+			"subtitle": "Technical Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "7",
+			"title": "Mradul Kapoor",
+			"subtitle": "App Development Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "8",
+			"title": "Ravi Shankar",
+			"subtitle": "Web Development Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "9",
+			"title": "Palak Diwedi",
+			"subtitle": "CP Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "10",
+			"title": "Kinshuk",
+			"subtitle": "CP Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "11",
+			"title": "Abhishek Khare",
+			"subtitle": "Management Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "12",
+			"title": "Manav Singh Shekhawat",
+			"subtitle": "Management Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "13",
+			"title": "Ishita Mishra",
+			"subtitle": "Management Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "14",
+			"title": "Kanika Sharma",
+			"subtitle": "Event Management Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "15",
+			"title": "Keshav Bhatia",
+			"subtitle": "Event Management Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "16",
+			"title": "Debasmita Mukherjee",
+			"subtitle": "Anchor",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "17",
+			"title": "Soham Roy",
+			"subtitle": "Treasurer & File Manager",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "18",
+			"title": "Himang Bhardwaj",
+			"subtitle": "Creative Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "19",
+			"title": "Amit Kumar Gupta",
+			"subtitle": "Creative Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "20",
+			"title": "Aditya Singh Pramar",
+			"subtitle": "Creative Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "21",
+			"title": "Ananya Vij",
+			"subtitle": "Social Designing Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "22",
+			"title": "Anubhav Bhattacharyya",
+			"subtitle": "Content Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "23",
+			"title": "Utkarsh Verma",
+			"subtitle": "Content Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "24",
+			"title": "Arya Jha",
+			"subtitle": "Social Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "25",
+			"title": "Shauryadeep Singh",
+			"subtitle": "Social Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "26",
+			"title": "Naman Bhattacharya",
+			"subtitle": "Photography Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "27",
+			"title": "Krish Billa",
+			"subtitle": "Photography Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "28",
+			"title": "Aanya Bhardwa",
+			"subtitle": "Publicity & Public Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "29",
+			"title": "Sanya Vohra",
+			"subtitle": "Publicity & Public Co-Lead",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "30",
+			"title": "Ankit Tiwari",
+			"subtitle": "Mentor",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		},
+		{
+			"id": "31",
+			"title": "Nikhil Sathe",
+			"subtitle": "Mentor",
+			"imageUrl": "https://www.shutterstock.com/image-vector/young-smiling-man-avatar-brown-600nw-2261401207.jpg"
+		}
+	]
+}
