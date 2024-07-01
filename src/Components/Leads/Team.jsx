@@ -5,14 +5,16 @@ import Footer from '../Footer/Footer';
 
 export default function Team() {
 	const [current, setCurrent] = useState(true);
-	const [leads, setLeads] = useState([]);
+	const [currentLeads, setCurrentLeads] = useState([]);
+	const [pastLeads, setPastLeads] = useState([]);
 	const [loading, setLoading] = useState(true);	
 
 	useEffect(() => {
 		fetch('/data.json')
 			.then(response => response.json())
 			.then(data => {
-				setLeads(data.data);
+				setCurrentLeads(data.currentLeads);
+				setPastLeads(data.pastLeads);
 				setLoading(false);
 			})
 			.catch(error => {
@@ -29,9 +31,6 @@ export default function Team() {
 		setCurrent(true);
 	}
 
-	const currentLeads = leads;
-	const pastLeads = [];
-
 	const displayedLeads = current ? currentLeads : pastLeads;
 
 	return (
@@ -44,17 +43,13 @@ export default function Team() {
 
 				<div className='flex items-center justify-center bg-gray-200 rounded-md px-2 py-1'>
 					<button
-						className={`px-3 py-1 rounded-md font-medium ${
-							current ? 'bg-transparent text-gray-500' : 'bg-white text-black'
-						}`}
+						className={`px-3 py-1 rounded-md font-medium ${!current ? 'bg-white text-black' : 'bg-transparent text-gray-500'}`}
 						onClick={handlePast}
 					>
 						Past
 					</button>
 					<button
-						className={`px-3 py-1 rounded-md font-medium ${
-							current ? 'bg-white text-black' : 'bg-transparent text-gray-500'
-						}`}
+						className={`px-3 py-1 rounded-md font-medium ${current ? 'bg-white text-black' : 'bg-transparent text-gray-500'}`}
 						onClick={handleCurrent}
 					>
 						Current
